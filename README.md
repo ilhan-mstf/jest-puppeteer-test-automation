@@ -1,5 +1,5 @@
 # UI test automation
-This repo provides sample code for test automation of ui with jest and puppeteer
+This repo provides sample code for ui test automation with jest and puppeteer.
 
 Please look at [this documentation](https://github.com/smooth-code/jest-puppeteer).
 
