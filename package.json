@@ -1,0 +1,24 @@
+{
+  "name": "jest-puppeteer-test-automation",
+  "version": "0.0.1",
+  "description": "Sample repo for ui testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "puppeteer",
+    "test"
+  ],
+  "author": "mustafa ilhan",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.1.0",
+    "jest-puppeteer": "^4.0.0",
+    "puppeteer": "^1.12.2"
+  },
+  "jest": {
+    "preset": "jest-puppeteer"
+  }
+}
