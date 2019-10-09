@@ -2,6 +2,7 @@
 
 describe('Google', () => {
   beforeAll(async () => {
+    page = await global.__BROWSER__.newPage()
     await page.goto('https://google.com')
   })
 
