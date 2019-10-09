@@ -1,3 +1,4 @@
 module.exports = {
-    isEnvironmentMessages:true
+    isEnvironmentMessages:false,
+    globalTimeout:5000
 };
