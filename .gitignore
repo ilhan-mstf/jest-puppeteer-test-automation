@@ -1,3 +1,5 @@
 node_modules
 .history
 *.lock
+.DS_Store
+package-lock.json
